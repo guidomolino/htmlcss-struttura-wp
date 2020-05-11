@@ -10,7 +10,7 @@ header{
   height: 90px;
   background-color: red;
 }
-
+/* Container main */
 .mainbox{
   margin: 20px 0;
 }
@@ -20,7 +20,7 @@ header{
   clear: both;
   display: table;
 }
-
+/* Sinistra */
 .widget-l{
   width: 20%;
   float: left;
@@ -28,7 +28,7 @@ header{
   height: 747px;
   background-color: lightblue;
 }
-
+/* Centro */
 .primary{
   width: 50%;
   float: left;
@@ -37,7 +37,7 @@ header{
   height: 747px;
   background-color: yellow;
 }
-
+/* Destra */
 .widget-r{
   width: 20%;
   float: right;
